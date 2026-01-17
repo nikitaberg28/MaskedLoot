@@ -1,0 +1,9 @@
+{
+  "name": "MaskedLoot",
+  "version": "1.0",
+  "main": "com.berg.maskedLoot.MaskedLoot",
+  "authors": [
+    "NikitaBerg"
+  ],
+  "description": "Аддон маскирует лут"
+}
