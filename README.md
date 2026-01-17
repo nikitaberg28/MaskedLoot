@@ -10,6 +10,11 @@
 2. Поместите в папку `plugins/BAirDropX/addons/`
 3. Перезапустите сервер и вставьте команду `[MASK-LOOT-INV]` в listeners в ивенте open
 
+## Скриншоты
+<img width="432" height="267" alt="image" src="https://github.com/user-attachments/assets/9ed731bd-4239-43d5-a6ab-4e1369bbbbd8" />
+<img width="410" height="468" alt="image" src="https://github.com/user-attachments/assets/91bbd292-8a48-42c5-997d-8ef62b9fc059" />
+
+
 Пример OPEN в `listeners.yml`:
 ```yaml
   open:
