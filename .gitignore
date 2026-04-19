@@ -1,0 +1,12 @@
+# Maven/Gradle build output
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS файлы
+.DS_Store
+Thumbs.db
